@@ -14,3 +14,4 @@
 
 </div>
 
+<div id='title' align='center'> <h1> ⚒🛠 My Language Stack 🛠⚒ </h1> </div>
